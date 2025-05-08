@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433855227716",
+    "project_id": "movil2025-dfbee",
+    "storage_bucket": "movil2025-dfbee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433855227716:android:fce757f6f06c1b7e2e9911",
+        "android_client_info": {
+          "package_name": "net.heidylazaro.proyectfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwOKCzoATDHPy_qCx9QyxrX8oTLrNP-aY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
